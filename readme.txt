@@ -1,3 +1,2 @@
-Git test
-
-my first git line
+Git is a version control system.
+Git is free software.
